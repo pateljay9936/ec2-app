@@ -3,7 +3,7 @@ name: deploy ec2-app on EC2 instance
 on: 
   push:
     branches:
-      - main
+      - new-branch
 
 jobs:
   build:
