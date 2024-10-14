@@ -15,6 +15,9 @@ export default function Home() {
         />
         <ol>
           <li>
+            <h1>this is updated and deployed using CICD pipeline on a EC2 service</h1>
+          </li>
+          <li>
             Get started by editing <code>src/app/page.js</code>.
           </li>
           <li>Save and see your changes instantly.</li>
